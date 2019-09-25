@@ -69,3 +69,9 @@ OR
 jupyter lab
 ```
 
+Notebook order:
+
+1. Plotly_Express.ipynb
+2. Plotly_Fundamentals.ipynb
+3. Plotly_Dash.ipynb
+
